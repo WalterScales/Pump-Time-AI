@@ -1,1 +1,0 @@
-{"name": "pump-time-ai","version": "1.0.0","private": true,"scripts": {"dev": "vite","build": "vite build","serve": "vite preview"},"dependencies": {"react": "^17.0.0","react-dom": "^17.0.0","google-generative-ai": "latest"},"devDependencies": {"vite": "latest","tailwindcss": "latest","postcss": "latest","autoprefixer": "latest"}}
